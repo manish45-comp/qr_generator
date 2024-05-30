@@ -15,7 +15,7 @@ const Preview = () => {
   }, [data, type]);
   return (
     <>
-      <div className="border t border-slate-300 bg-slate-50 p-2 mt-3 rounded-md">
+      <div className="border border-slate-300 bg-slate-50 p-2 mt-3 rounded-md">
         <div>
           <div className="font-medium text-lg text-slate-900">
             <p>QR Code Preview</p>
